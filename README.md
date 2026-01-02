@@ -13,3 +13,5 @@ This repo contains practical templates for:
 1. Copy templates from `/templates`
 2. Fill them using your service requirements
 3. Use `/examples` as references
+
+These templates are derived from real-world QA practices (Excel/Jira-based) and rewritten in an anonymized, reusable format.
